@@ -1,3 +1,4 @@
 # Aula02
-Projeto da Aula 02 do curso de Lógica de Programação em Java
-Os arquivos contém erros intencionais para serem discutidos no contexto de uma aula prática
+<p align="center"><img src="https://wp.eucapacito.com.br/wp-content/uploads/2021/11/FIAP-WHITE-1.png" min-width="400px" max-width="400px" width="400px" align="center" alt="The-last-os-us HBO">
+
+<p align="center"> Segunda aula de programação com linguagem JAVA por meio do SHIFT da FIAP</p>
